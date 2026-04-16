@@ -1,6 +1,6 @@
 ## Hi everyone👋
 
-This is is the official repository of the Department of Life Science Informatics and Data Science at the Lamarr Instutute at the University of Bonn. Stay tuned for updates! 
+This is is the official repository of the Department of Life Science Informatics and Data Science at the Lamarr Institute at the University of Bonn. Stay tuned for updates! 
 <!--
 
 **Here are some ideas to get you started:**
